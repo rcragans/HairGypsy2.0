@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-size: 100%;
+  background-repeat:repeat;
+  background-image: url("/shutterstock_538640602.jpg");
+  height: auto;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.home{
+  font-family: Fantasy, sans-serif;
+  font-style: oblique;
+  font-weight: bold;
+  color:white;
+  position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.aboutHeader{
+  font-family: Fantasy, sans-serif;
+  font-style: oblique;
+  font-weight: bold;
+  color:white;
+  top: 30%;
+}
+
+.aboutMeLists{
+  color: white;
+}
+
+.servicesHeader{
+  font-family: Fantasy, sans-serif;
+  font-style: oblique;
+  font-weight: bold;
+  color:white;
+}
